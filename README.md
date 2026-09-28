@@ -95,7 +95,7 @@ Ensure your 7 days of progress become permanent habits:
 
 This repository includes the official landing page and post-purchase thank-you experience for **The Social & Focus Reset**:
 
-- `index.html`: High-converting landing page with urgency timers, ROI calculator, FAQ accordion, and 3D cover showcase.
+- `index.html`: Clean landing page with ROI calculator, FAQ accordion, business details, and 3D cover showcase.
 - `thank-you.html`: Post-payment order receipt, download page, and 3-step quick start guide with particle confetti.
 - `css/styles.css`: Custom modern CSS design system (teal, gold, and dark navy accents).
 - `js/app.js`: Interactive elements (timer, calculation logic, modal checkout simulation).
