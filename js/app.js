@@ -133,7 +133,7 @@ function initPaymentModal() {
       e.preventDefault();
       
       const userName = document.getElementById('custName').value.trim() || 'Valued Reader';
-      const userEmail = document.getElementById('custEmail').value.trim() || 'customer@example.com';
+      const userEmail = document.getElementById('custEmail').value.trim() || 'refreshminds@gmail.com';
       
       // Switch to processing animation
       formState.style.display = 'none';
