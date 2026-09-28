@@ -1,0 +1,18 @@
+# Ignore PDF eBook files from Git repository to protect paid content
+*.pdf
+The Social and Focus Reset - 7 Day Workbook.pdf
+assets/*.pdf
+
+# Node & Dependencies
+node_modules/
+npm-debug.log*
+
+# Environment files & secret keys
+.env
+.env.local
+.env.development.local
+.env.production.local
+
+# Operating System files
+.DS_Store
+Thumbs.db
